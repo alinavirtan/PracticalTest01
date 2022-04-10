@@ -1,3 +1,8 @@
 <resources>
     <string name="app_name">PracticalTest01</string>
+    <string name="press_me">Press me!</string>
+    <string name="press_me_too">Press me, too!</string>
+    <string name="zero">0</string>
+    <string name="ok">ok</string>
+    <string name="cancel">cancel</string>
 </resources>
